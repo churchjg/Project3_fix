@@ -14,11 +14,9 @@ Originally, I had trouble trying to get the images to show up within the boxes I
 
 
 ## Unsolved Problems
-#1 I tried but could not find out how to make the scroll button show up within the modal. Sometimes the text inside of the modal (the recipe) will become to big for the modal and overflow. I want to make sure I can create a scroll box for this in the future.
+#1  For some reason, the middle column of my CSS grid layout will not respond to the "mouseover" event I have created. I spent a lot of time trying to remedy this but could not figure it out.
 
-#2 For some reason, the middle column of my CSS grid layout will not respond to the "mouseover" event I have created. I spent a lot of time trying to remedy this but could not figure it out.
-
-#3 This site is not responsive but I have a clear idea of how I would like to make it responsive. 
+#2 This site is not responsive but I have a clear idea of how I would like to make it responsive. 
 
 ## Built With
 

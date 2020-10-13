@@ -68,9 +68,14 @@ main {
     overflow: hidden;
     /* position: absolute; */
     /* left: 25%; */
-    opacity: 0;
+    /* opacity: 0; */
+    display: none;
     /*z-index: -1; */
     transition: .5s;
+}
+
+.show-modal {
+    display: block;
 }
 
 

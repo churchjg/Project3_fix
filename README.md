@@ -14,9 +14,7 @@ Originally, I had trouble trying to get the images to show up within the boxes I
 
 
 ## Unsolved Problems
-#1  For some reason, the middle column of my CSS grid layout will not respond to the "mouseover" event I have created. I spent a lot of time trying to remedy this but could not figure it out.
-
-#2 This site is not responsive but I have a clear idea of how I would like to make it responsive. 
+#1  This site is not responsive but I have a clear idea of how I would like to make it responsive. 
 
 ## Built With
 
